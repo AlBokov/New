@@ -1,1 +1,4 @@
-print('This is a file from Git repository')
+name = input("ВВедите свое имя: ")
+age = input("Введите ваш возраст: ")
+
+print("Радд знакомству " + name + ", меня зовут Maroder!")
